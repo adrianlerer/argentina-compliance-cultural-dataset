@@ -1,0 +1,8 @@
+# Argentina Cultural Compliance Dataset - Community Edition
+# Dependencies for basic functionality
+
+# Core dependencies (minimal for community edition)
+# No external AI/ML libraries to keep it lightweight and accessible
+
+# Standard library only - no external dependencies required
+# This ensures maximum compatibility and easy installation
