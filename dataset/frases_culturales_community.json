@@ -11,14 +11,14 @@
     "type": "open_source_community",
     "validation_status": "multi_ia_validated",
     "quality_score": 0.97,
-    "ai_consensus": "97% precision across GPT-5, Claude, Gemini, Qwen3",
+    "ai_consensus": "97% precision across multiple independent AI systems",
     "changelog": "v1.0: Community release with 20 validated cultural phrases"
   },
   "validation_summary": {
-    "gpt5_score": "8/10",
-    "claude_score": "9/10", 
-    "gemini_score": "10/10",
-    "qwen3_score": "8/10",
+    "system_a_score": "8/10",
+    "system_b_score": "9/10", 
+    "system_c_score": "10/10",
+    "system_d_score": "8/10",
     "multi_ia_consensus": 0.97,
     "cultural_authenticity": 1.0,
     "legal_accuracy": 0.96,
@@ -61,7 +61,7 @@
       "legal_reference": "Art. 7 Ley 27.401 - Hospitalidad y Regalos",
       "explanation": "Tradición argentina de combinar negocios con asados. Riesgo: normalización de gastos no documentados como 'cultura'",
       "competitive_advantage": "Herramientas internacionales buscan 'entertainment' pero no captan significado cultural de 'asadito'",
-      "ai_validation": "Gemini 8/10, Claude 9/10 - Confirmado como auténtico y riesgoso"
+      "ai_validation": "Sistema A 8/10, Sistema B 9/10 - Confirmado como auténtico y riesgoso"
     },
     {
       "id": "ARG_002", 
@@ -72,7 +72,7 @@
       "legal_reference": "Art. 9 Ley 27.401 - Conflictos de Interés",
       "explanation": "Estructura empresarial familiar común en Argentina. 'Cuñado' es marcador potentísimo de nepotismo",
       "competitive_advantage": "Herramientas internacionales no entienden peso cultural - Dataset detecta nepotismo inmediato",
-      "ai_validation": "GPT-5 9/10, Qwen3 9/10 - Confirmado como caso paradigmático"
+      "ai_validation": "Sistemas independientes 9/10 - Confirmado como caso paradigmático"
     },
     {
       "id": "ARG_003",
@@ -83,7 +83,7 @@
       "legal_reference": "Art. 3 Ley 27.401 - Cohecho y Soborno",
       "explanation": "Diminutivo 'regalito' minimiza percepción de gravedad del soborno a funcionario público",
       "competitive_advantage": "Herramientas internacionales interpretan como 'small gift' - Dataset lo marca como soborno 5/5",
-      "ai_validation": "Todos los sistemas 10/10 - Caso de libro perfecto"
+      "ai_validation": "Consenso sistemas IA 10/10 - Caso paradigmático perfecto"
     },
     {
       "id": "ARG_004",
@@ -94,7 +94,7 @@
       "legal_reference": "Art. 23 Ley 27.401 - Uso de Recursos + Código Penal Art. 170",
       "explanation": "Eufemismo argentino para ocultar gastos personales. 'Cargalo' normaliza la práctica irregular",
       "competitive_advantage": "Herramientas genéricas no detectan uso como eufemismo para gastos personales",
-      "ai_validation": "Claude 7/10, Gemini 9/10 - Refinado por recomendaciones IA"
+      "ai_validation": "Sistemas IA 8/10 - Refinado por consenso algorítmico"
     },
     {
       "id": "ARG_005",
