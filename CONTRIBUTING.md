@@ -28,7 +28,7 @@
 - **Agro**: Cultura empresarial rural
 
 ### 3. 🌍 Expansión Regional
-- **Córdoba**: \"Culia\", modismos locales
+- **Córdoba**: \"Culiao\", modismos locales
 - **Mendoza**: Jerga vitivinícola
 - **Tucumán**: Cultura azucarera
 - **Neuquén**: Modismos energéticos
